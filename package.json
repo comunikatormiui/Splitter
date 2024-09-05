@@ -17,7 +17,7 @@
   },
   "gitHead": "d0d89fc5ae4663c27e4b6b5c9cfcf1b47e645d6e",
   "dependencies": {
-    "embark-solc": "^1.0.0",
-    "solc": "^0.5.7"
+    "embark-solc": "^6.0.0",
+    "solc": "^0.5.13"
   }
 }
